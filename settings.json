@@ -1,0 +1,9 @@
+{
+    "python.analysis.extraPaths": [
+        "f:/python/lib/site-packages"
+    ],
+    "python.analysis.autoSearchPaths": true,
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportMissingImports": "warning"
+    }
+}
